@@ -21,7 +21,8 @@ Hva kan du bidra med for å sikre at at internett forblir en fri digital almenni
 
 
 
-## OM Isoc Norge
+## OM ISOC Norge
+[tekst om ISOC Norge]
 
 ## Om Creative Commons Norge
 Formålet med nettstedet er å informere om det arbeidet som gjøres med Creative Commons i Norge, og bygge et miljø rundt bruk av lisensene.

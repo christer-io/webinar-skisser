@@ -20,12 +20,11 @@ Hva kan du bidra med for å sikre at at internett forblir en fri digital almenni
 - Chris Fabian, Unicef Venture Fund(Ikke bekreftet)
 
 
-
-## OM ISOC Norge
-[tekst om ISOC Norge]
+## Om ISOC Norge
+The Internet Society Norway Chapter, i Norsk dagligtale kalt “ISOC Norge”, er en selvstendig
+Norsk frivillig medlemsorganisasjon som arbeider for et åpent og sikkert Internett for alle.
+Vi bryr oss om tilliten til Internett, kritisk infrastruktur, og [mange andre tema](https://www.internetsociety.org/issues/)
+som er viktige for internettets framtid i Norge.
 
 ## Om Creative Commons Norge
 Formålet med nettstedet er å informere om det arbeidet som gjøres med Creative Commons i Norge, og bygge et miljø rundt bruk av lisensene.
-
-
-

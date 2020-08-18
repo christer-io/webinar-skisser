@@ -16,10 +16,15 @@ Dette seminaret/webinaret handler om at vi alle har en rolle å spille for å iv
 Hva kan du bidra med for å sikre at at internett forblir en fri digital almenning? 
 
 # Foredragsholdere
-- Cable Green, Creative Commons
-- Chris Fabian, Unicef Venture Fund
+- Cable Green, Creative Commons(Ikke bekreftet)
+- Chris Fabian, Unicef Venture Fund(Ikke bekreftet)
 
 
+
+## OM Isoc Norge
 
 ## Om Creative Commons Norge
+Formålet med nettstedet er å informere om det arbeidet som gjøres med Creative Commons i Norge, og bygge et miljø rundt bruk av lisensene.
+
+
 

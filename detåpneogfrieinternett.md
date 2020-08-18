@@ -27,4 +27,4 @@ Vi bryr oss om tilliten til Internett, kritisk infrastruktur, og [mange andre te
 som er viktige for internettets framtid i Norge.
 
 ## Om Creative Commons Norge
-Formålet med nettstedet er å informere om det arbeidet som gjøres med Creative Commons i Norge, og bygge et miljø rundt bruk av lisensene.
+Formålet med Creative Commons Norge er å informere om det arbeidet som gjøres med Creative Commons internasjonalt og i Norge, og bygge et miljø rundt bruk av Creative Commons lisensene.

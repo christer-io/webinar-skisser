@@ -8,7 +8,7 @@ Forfatterne Paul Stacey og Sarah Hinchliff Pearson tar oss med inn i samtaler me
 
 Utover praktiske eksempler på forskjellige forretningsmodeller berører også boken forskjellen mellom tradisjonelle kommersielle virksomheter og de som tar utgangspunkt i den globale delingskulturen.
 
-«Hvis du ønsker å lære mer om digital delingskultur og Creative Commons er dette en bok som både vil inspirere og gi grunnleggende innsikt» sier leder av Creative Commons Norge, Christer Solheim Gundersen. "Dette er vokst til en global bevegelse med totalt over 1,6 milliarder verk med CC-lisens tilgjengelig på nett."
+«Hvis du ønsker å lære mer om digital delingskultur og Creative Commons er dette en bok som både vil inspirere og gi grunnleggende innsikt» sier leder av Creative Commons Norge, Christer Solheim Gundersen. "De siste årene har denne globale bevegelsen sette en betydelig vekst med totalt over 1,6 milliarder verk med CC-lisens tilgjengelig på nett."
 
 Denne boken er nå tilgjengelig på norsk takket være liten gruppe frivillige entusiaster ledet av Petter Reinholdtsen. «På vegne av Creative Commons Norge vil jeg takke hver enkelt
 

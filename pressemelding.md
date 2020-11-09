@@ -8,11 +8,11 @@ Forfatterne Paul Stacey og Sarah Hinchliff Pearson tar oss med inn i
 
 samtaler med 24 mennesker, prosjekter og organisasjoner som på ulike
 
-måter generere inntekter gjennom deling av deres verk. Som leser får man innsikt i hvordan alt fra forfattere, kunstnere og filmskapere
+måter generere inntekter gjennom deling av deres verk. Som leser får man innsikt i hvordan alt fra forskere, forfattere, kunstnere og filmskapere utvikler nye foretningsmoddelr masert på en åpen filosofi. En av casene i denne boken viser hvordan Blender Animation Stuido lager [vakre annimasjonsfilmer](https://www.youtube.com/watch?v=WhWc3b3KhnY&t=17s) som de publiserer under en fri lisens, basert på en platform som er fri programvare. 
 
 Utover praktiske eksempler på forskjellige forretningsmodeller berører også boken forskjellen mellom tradisjonelle kommersielle virksomheter og de som tar utgangspunkt i den globale delingskulturen.
 
-«Hvis du ønsker å lære mer om digital delingskultur og Creative Commons er dette en bok som både vil inspirere og gi grunnleggende innsikt» sier leder av Creative Commons Norge, Christer Solheim Gundersen.
+«Hvis du ønsker å lære mer om digital delingskultur og Creative Commons er dette en bok som både vil inspirere og gi grunnleggende innsikt» sier leder av Creative Commons Norge, Christer Solheim Gundersen. 
 
 Denne boken er nå tilgjengelig på norsk takket være liten gruppe frivillige entusiaster ledet av Petter Reinholdtsen. «På vegne av Creative Commons Norge vil jeg takke hver enkelt
 

@@ -18,13 +18,11 @@ Boken er selvsagt fritt tilgjengelig under en [Creative Commons lisens](https://
 
 Lenker og kontaktinformasjon
 
-Kontakt: Ole-Erik Yrvin ([oeyrvin@gmail.com](mailto:oeyrvin@gmail.com) og Christer Solheim Gundersen ([christer@goopen.no](mailto:christer@goopen.no), 93 41 13 60)
+Kontakt: Ole-Erik Yrvin ([oeyrvin@gmail.com](mailto:oeyrvin@gmail.com)) og Christer Solheim Gundersen ([christer@goopen.no](mailto:christer@goopen.no), +47 93 41 13 60)
 
-Bokens nettside, https://madewith.cc/
+Bokens engelske nettside, https://madewith.cc/
 
-Den norske nettutgaven, https: (FIXME)
-
-PDF og ePUB-utgaver, https: (FIXME)
+Den norske utgavens nettside, https: (FIXME)
 
 Papirutgaven fra Lulu: https://www.lulu.com/en/us/shop/sarah-hinchliff-pearson-and-paul-stacey-and-bryan-mathers-and-ryan-merkley/gjort-med-creative-commons/paperback/product-m5jy75.html
 

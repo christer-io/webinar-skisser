@@ -20,10 +20,12 @@ Lenker og kontaktinformasjon
 
 Kontakt: Ole-Erik Yrvin ([oeyrvin@gmail.com](mailto:oeyrvin@gmail.com) og Christer Solheim Gundersen ([christer@goopen.no](mailto:christer@goopen.no), 93 41 13 60)
 
-Bokens nettside, https:
+Bokens nettside, https://madewith.cc/
 
-Den norske nettutgaven, https:
+Den norske nettutgaven, https: (FIXME)
 
-PDF og ePUB-utgaver, https:
+PDF og ePUB-utgaver, https: (FIXME)
 
-Papirutgaven fra Lulu:
+Papirutgaven fra Lulu: https://www.lulu.com/en/us/shop/sarah-hinchliff-pearson-and-paul-stacey-and-bryan-mathers-and-ryan-merkley/gjort-med-creative-commons/paperback/product-m5jy75.html
+
+Epubutgaven fra lulu: https://www.lulu.com/en/us/shop/sarah-hinchliff-pearson-and-paul-stacey-and-bryan-mathers-and-ryan-merkley/gjort-med-creative-commons/ebook/product-zw2r4k.html

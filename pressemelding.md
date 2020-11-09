@@ -4,7 +4,7 @@ Pressemelding
 
 «Gjort med Creative Commons» er en bok om gjenbruk, deling og den digitale allmenningen. Boken omhandler endringene i tankesett og filosofi samt fordelene og praksisen som kommer med å være «åpen», og det å bygge en forretningsmodell på åpne verdier.
 
-Forfatterne Paul Stacey og Sarah Hinchliff Pearson tar oss med inn i samtaler med 24 mennesker, prosjekter og organisasjoner som på ulike måter generere inntekter gjennom deling av deres verk. Som leser får man innsikt i hvordan alt fra forskere, forfattere, kunstnere og filmskapere utvikler nye foretningsmoddelr masert på en åpen filosofi. En av casene i denne boken viser hvordan Blender Animation Stuido lager [vakre annimasjonsfilmer](https://www.youtube.com/watch?v=WhWc3b3KhnY&t=17s) som de publiserer under en fri lisens, basert på en platform som er fri programvare. 
+Forfatterne Paul Stacey og Sarah Hinchliff Pearson tar oss med inn i samtaler med 24 mennesker, prosjekter og organisasjoner som på ulike måter generere inntekter gjennom deling av deres verk. Som leser får man innsikt i hvordan alt fra forskere, forfattere, kunstnere og filmskapere tjener penger basert på åpne foretningsmoddeler. En av casene i denne boken viser hvordan Blender Animation Stuido lager [vakre annimasjonsfilmer](https://www.youtube.com/watch?v=WhWc3b3KhnY&t=17s) som de publiserer under en fri lisens, basert på en platform som er fri programvare. 
 
 Utover praktiske eksempler på forskjellige forretningsmodeller berører også boken forskjellen mellom tradisjonelle kommersielle virksomheter og de som tar utgangspunkt i den globale delingskulturen.
 
